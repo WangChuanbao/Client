@@ -1,0 +1,10 @@
+2016-10-19 12:56:55|Linux_redhat5.8_51|Too many processes on Linux_redhat5.8_51|3
+2016-11-27 21:59:25|Linux_redhat5.8_51|网卡virbr0被关闭或出错|2
+2016-11-30 10:21:05|Windows zhaowq|网卡Realtek_PCIe_GBE_Family_Controller被关闭或出错|2
+2016-11-30 10:21:05|Windows zhaowq|网卡Sangfor_SSL_VPN_CS_Support_System_VNIC被关闭或出错|2
+2016-12-05 14:42:00|Windows_hp-59a5ba74e891|主机ny processes on Windows_hp-59a5ba74e891的进程test异常|2
+2016-12-09 16:37:17|Windows zhaowq|主机ny processes on Windows zhaowq ICMP无法到达|3
+2016-12-28 16:45:41|Windows_win_config|Intel(R) PRO/1000 MT Network Connection #4网卡错误|3
+2016-12-28 17:18:52|Windows_win_config|Intel(R) PRO/1000 MT Network Connection #3 - Teefer2 Miniport网卡错误|3
+2016-12-29 19:21:47|思科WS-C3750X-48|主机ny processes on 思科WS-C3750X-48端口10146输出使用率大于80%|2
+2016-12-29 19:22:10|思科WS-C3750X-48|主机ny processes on 思科WS-C3750X-48端口10103输出使用率大于80%|2

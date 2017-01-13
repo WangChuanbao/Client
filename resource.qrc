@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>2.jpg</file>
+        <file>4.jpg</file>
+        <file>left.jpg</file>
+        <file>middle.jpg</file>
+        <file>right.jpg</file>
+        <file>网络拓扑图.jpg</file>
+        <file>topological.jpg</file>
+    </qresource>
+</RCC>
